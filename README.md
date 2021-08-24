@@ -34,9 +34,8 @@ https://arxiv.org/ftp/arxiv/papers/1706/1706.01010.pdf
 
 **Week 4 : Sequence Classification using ML**
 
--
--
--
+- Paper :
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9497110
 
 
 
