@@ -45,11 +45,13 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9497110
 - MLP
 
 https://www.sciencedirect.com/topics/computer-science/multilayer-perceptron
+
 https://machinelearningmastery.com/neural-networks-crash-course/
 
 - XGBoost
 
 https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d
+
 https://xgboost.readthedocs.io/en/latest/tutorials/model.html
 
 
